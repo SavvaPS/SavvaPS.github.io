@@ -4,6 +4,7 @@ Pages
 - https://savvaps.github.io/          home
 - https://savvaps.github.io/support/  support page  -> App Store "Support URL"
 - https://savvaps.github.io/privacy/  privacy policy -> App Store "Privacy Policy URL"
+- https://savvaps.github.io/terms/    terms of service -> Google Play "Terms of Service" and the App Store licence agreement
 
 - https://savvaps.github.io/launch.json  founding-member cut-off date, read by the iPhone app
 
