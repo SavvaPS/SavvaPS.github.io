@@ -11,8 +11,8 @@ Pages
 Founding-member cut-off (launch.json)
 - "foundingCutoff": null  means the founding window is still open: everyone who
   downloads counts as a founding member (free forever).
-- When the App Store version goes live, set the end of the window, e.g.
-    "foundingCutoff": "2026-12-31T23:59:59Z"
+- The founding window is 2 weeks. When the App Store version goes live, set the end
+  of the window to launch day + 14 days, e.g. "foundingCutoff": "2026-12-31T23:59:59Z"
   Anyone whose Apple ID first downloaded GymSmith before that moment stays free forever.
 - To extend the window, move the date later. Never move it earlier.
 - Commit and push; the app picks it up the next time it opens online.
