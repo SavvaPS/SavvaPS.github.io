@@ -1,3 +1,5 @@
 {
-  "foundingCutoff": null
+  "foundingCutoff": null,
+  "foundingStart": null,
+  "androidStore": false
 }
